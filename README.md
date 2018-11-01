@@ -1,6 +1,6 @@
 # Check Image Monochromaticity
 
-Monochromatic or not monochromatic, that's the question.<br>
+monochromatic or not monochromatic, that's the question.<br>
 This is the snippet if you need to check the monochromaticity of any image file.
 
 ## How does it look like?
@@ -9,7 +9,7 @@ This is the snippet if you need to check the monochromaticity of any image file.
 
 ## Inspiration
 
-We needed to make thi verification at project I've been working on.
+We needed to make this validation at project I've worked on.
 
 ## Further work
 
